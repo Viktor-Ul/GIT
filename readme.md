@@ -7,7 +7,7 @@
 ### Содержание:
 1. [Что такое GIT](content/git_definition.md)
 2. [Основные команды](./content/basic_commands.md)
-3. [Установка](./content/history.md)
+3. [Установка](./content/install.md)
 4. [История](./content/history.md)
 
 ---
