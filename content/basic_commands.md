@@ -12,3 +12,5 @@
 6. [git rm](../basic_commands/git_rm)
 7. [git clean](../basic_commands/git_clean)
 ---
+
+[На главную](/readme.md)

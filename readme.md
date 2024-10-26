@@ -1,4 +1,4 @@
-# Инструкция по работе с GID
+# Инструкция по работе с GIT
 
 ![git-logo](./images/Git-Logo-Black.png)
 
